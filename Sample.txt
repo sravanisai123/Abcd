@@ -1,5 +1,9 @@
 hello   sravani
 
+<<<<<<< HEAD
 some changes
 
 
+=======
+branch1
+>>>>>>> branch1
